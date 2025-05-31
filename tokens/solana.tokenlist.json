@@ -1,0 +1,13 @@
+{
+  "name": "MEOMAOEMO",
+  "symbol": "MMEO",
+  "address": "A3LkwTtWhPadSB55utLu6Q2vjGbrCNKDeiZ4wokgWPQo",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/saveriof95/MMEMO/main/assets/mainnet/A3LkwTtWhPadSB55utLu6Q2vjGbrCNKDeiZ4wokgWPQo/logo.png",
+  "tags": ["meme", "community", "degenerate"],
+  "extensions": {
+    "website": "https://meomaoemo.com",
+    "description": "RICH CHILL GUY. LOVER DRUGS AND TRANS",
+    "github": "https://github.com/saveriof95/MMEMO"
+  }
+}
